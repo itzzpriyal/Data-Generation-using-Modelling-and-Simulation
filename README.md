@@ -1,0 +1,2 @@
+# Data-Generation-using-Modelling-and-Simulation
+This project models urban flooding using a rainfall–runoff simulation to generate synthetic data. Around 1000 rainfall scenarios were simulated by varying rainfall intensity, duration, drainage capacity, and soil absorption. The generated dataset was used to train and compare multiple ML regression models,with Random Forest giving the best results.
